@@ -9,7 +9,7 @@ Soy Cloud Engineer autodidacta, apasionado por la tecnología y acá encontrará
 - 🌍 **Vivo en:** Madrid, España.
 - 🎓 **Estudié:** Geología, pero no me gradué. Me convertí en Cloud Engineer por vocación, sin diploma universitario. Bueno, podría decir 2 AWS Certificaciones (Cloud Practitioner y Solutions Architect - Associate).
 - 🌱 **Estoy aprendiendo ahora mismo:** los fundamentos de Linux (uso WSL), Git y Python.
-- ⚡ **Dato curioso:** Nací en la provincia de La Pampa, Argentina entre 🐄 y 🚜.
+- ⚡ **Dato curioso:** Nací en la provincia de La Pampa, Argentina entre 🐄 y 🚜. Uno de mis abrigos preferidos para el frío pampeano es: https://amzn.to/43XL6ls
 - 📕 **Leyendo actualmente:** Cloud Computing Bible de Barrie Sosinsky. https://amzn.to/3DrzsVk *Te dejo mi enlace de afiliados de Amazon para que puedas comprarlo y me ayudes con una comisión.
 - 📫 **Contáctame:** https://linktr.ee/juanmathiasperezlang
 
